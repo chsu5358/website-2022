@@ -7,6 +7,7 @@ nav: true
 display_categories: [Natural Language Processing, Computer Vision and Multimedia]
 horizontal: false
 display_grids: false
+nav_order: 4
 ---
 <!--
 <div class="row row-grid">
